@@ -1,2 +1,2 @@
 # homework
-first commit - true
+first commit &check;
